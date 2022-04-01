@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Rafael Rodrigues! 👋
 
+🎓 I'm a Information Systems student at Universidade Federal de Lavras (UFLA). <br />
+🌱 I'm currently studying NodeJS and other back-end topics.
+
+You can find me at: [LinkedIn](https://www.linkedin.com/in/vinisilvag/)
 <!--
 **rafaelrsz/rafaelrsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
