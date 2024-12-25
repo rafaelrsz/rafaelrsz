@@ -1,4 +1,4 @@
-### Hi there, I'm Rafael Rodrigues! 👋
+### Hi there, I'm Rafael Souza! 👋
 
 🎓 Information Systems Student at Universidade Federal de Lavras (UFLA). <br />
 🌱 Currently focusing on mastering .NET and React as part of my tech stack.
