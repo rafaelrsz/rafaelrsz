@@ -1,9 +1,9 @@
 ### Hi there, I'm Rafael Rodrigues! 👋
 
-🎓 I'm a Information Systems student at Universidade Federal de Lavras (UFLA). <br />
-🌱 Currently studying C#/C++ and other back-end topics.
+🎓 Information Systems Student at Universidade Federal de Lavras (UFLA). <br />
+🌱 Currently focusing on mastering .NET and React as part of my tech stack.
 
-You can find me at: [LinkedIn](https://www.linkedin.com/in/vinisilvag/)
+You can find me at: [LinkedIn](https://www.linkedin.com/in/rafaelrsz/)
 <!--
 **rafaelrsz/rafaelrsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
